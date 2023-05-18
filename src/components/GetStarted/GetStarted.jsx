@@ -7,7 +7,7 @@ const GetStarted = () => {
         <div className="paddings innerWidth g-container">
             <div className="flexColCenter inner-container">
                 <span className="primaryText">
-                    Get Started with HomyZ
+                    Get Started with EstateZ
                 </span>
                 <span className="secondaryText">
                     Subscribe to get super attractive offers

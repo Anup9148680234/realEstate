@@ -19,14 +19,14 @@ const Value = () => {
             {/* Left Side */}
             <div className="v-left">
                 <div className="image-container">
-                    <img src="./value.png" alt="Value" />
+                    <img src="./value.jpg" alt="Value" />
                 </div>
             </div>
 
             {/* Right Side */}
             <div className="flexColStart v-right">
                 <span className='orangeText'>Our Value</span>
-                <span className='primarytext'>Value we give to you</span>
+                <span className='primaryText'>Value we give to you</span>
                 <span className='secondaryText'>
                     We are alwyas ready to help you by provinding the best
                     <br />
